@@ -1,2 +1,3 @@
 # Linguist overrides
 *.pbix linguist-detectable=true
+*.csv linguist-detectable=true
